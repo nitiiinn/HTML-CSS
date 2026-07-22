@@ -1,0 +1,32 @@
+h1{
+    color:#05a3ff;
+}
+button{
+    color:deeppink;
+    background-color:beige;
+}
+
+#heading1{
+    color:#ff00bf;
+}
+
+#heading2{
+    color:#ff025f;
+}
+
+.myclass{
+    color:#e80b3e;
+}
+
+#box{
+    background-color: rgb(53, 128, 220);
+    color: white;
+}
+p{
+    text-align: right;
+
+}
+#hh1{
+    text-align: center;
+    text-decoration: underline;
+}

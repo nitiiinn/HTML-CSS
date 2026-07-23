@@ -1,0 +1,17 @@
+p{
+    text-align: right;
+
+}
+
+#hh1{
+    color:#05a3ff;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#ptwo{
+    font-family: roboto,fantasy;
+    font-size: 25px;
+    line-height: 30px;
+    text-transform: capitalize;
+}
